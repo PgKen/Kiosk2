@@ -1,4 +1,3 @@
-//Test edit
 import React, { useState, useEffect } from "react";
 import "../css/Display.css";
 import imgLogo from "../img/logo_srimaung.png";
